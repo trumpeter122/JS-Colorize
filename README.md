@@ -1,2 +1,2 @@
-# Colorize
-Greasemonkey scripts for applying custom color schemes to websites
+# JS-Colorize
+A JS user script for applying custom color schemes to websites
